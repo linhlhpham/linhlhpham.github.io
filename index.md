@@ -4,7 +4,7 @@
 
 ### Unveiling the Secrets of Spotify Songs’ Popularity
 
-[![View in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1uN7PXAJE0XjzL1pb_1Mm8HgsV-FKlIlW)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Spotify-Song-Popularity/blob/main/DSO_545_Final_Project_Code.ipynb)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/DSO-545-Final-Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/DSO-545-Spotify.pptx.pdf)
 
@@ -20,5 +20,9 @@ The music industry is a lucrative sector within the entertainment industry, gene
 - **Cluster 4** represents the popularity of Hip-hop. It is pretty expected that Hip-hop songs are likely to be more popular when they have a strong rhythm and cheerful mood, creating a lively feel when combined with high danceability. However, it’s interesting to note that songs in this genre should contain fewer explicit lyrics and fall within a moderate tempo range.
 
 <center><img src="images/spotify clustering.png"/></center>
+
+---
+### Homeownership and Delinquency: Decoding the Impact on Credit Card Holders
+
 ---
 <center>© 2023 Thanh Phan. Powered by Jekyll and the Minimal Theme.</center>
