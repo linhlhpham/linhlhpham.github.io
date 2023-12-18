@@ -5,6 +5,7 @@
 ### Unveiling the Secrets of Spotify Songs’ Popularity
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Spotify-Song-Popularity/blob/main/DSO-545_Final-Project-Code.ipynb)
+![Language](https://img.shields.io/badge/Python-Language-navy?logo=Python)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/Spotify-Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/Spotify-Presentation.pdf)
 
@@ -25,18 +26,18 @@ The music industry is a lucrative sector within the entertainment industry, gene
 ### Homeownership and Delinquency: Decoding the Impact on Credit Card Holders
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Homeownership-delinquency/blob/main/DSO-510_Group-C1_Final-Code.ipynb)
+![Language](https://img.shields.io/badge/Python-Language-navy?logo=Python)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/HOS-Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/HOS-Presentation.pdf)
 
-- Credit cards are the most prevalent form of household debt and continue to become even more widespread. As Americans grapple with high inflation and record debt, many have fallen behind on credit card payments. In fact, 5.08% of credit card balances fell into serious delinquency in the second quarter of 2023, according to data from the Federal Reserve Bank of New York.
+Credit cards are the most prevalent form of household debt and continue to become even more widespread. As Americans grapple with high inflation and record debt, many have fallen behind on credit card payments. In fact, 5.08% of credit card balances fell into serious delinquency in the second quarter of 2023, according to data from the Federal Reserve Bank of New York.
+
 - The problem our team aimed to answer was: “Does a credit card holder’s home ownership status impact their delinquent behavior?” Our goal is to help banks understand what factors influence an individual’s delinquency rate. Through this, banks can identify which consumers are most likely to default and refine strategies to target these consumers. 
 - With a dataset of **400K** values over 4 quarters, our team first performed a comprehensive EDA and saw a significant trend emerge that individuals with mortgages consistently showed the highest average delinquency rate. In contrast, those renting homes displayed the lowest average delinquency rate. 
 
 <center><img src="images/HOS 1.png"/></center>
 <center><img src="images/HOS 3.png"/></center>
 
-We then leveraged Multivariate Regression modeling and with p-value < 0.05, we were able to conclude that both "home_ownership_RENT" and "home_ownership_OWN" exert a discernible influence on the values of "delinquency_2yrs." It is evident that groups with different home ownership statuses manifest distinct patterns in their occurrences of delinquency over the past two years. This nuanced understanding allows for a more comprehensive interpretation of the relationships between home ownership and delinquency, contributing valuable insights to inform further investigations or policy considerations in relevant domains.
+- We then leveraged Multivariate Regression modeling and with p-value < 0.05, we were able to conclude that both "home_ownership_RENT" and "home_ownership_OWN" exert a discernible influence on the values of "delinquency_2yrs." It is evident that groups with different home ownership statuses manifest distinct patterns in their occurrences of delinquency over the past two years. This nuanced understanding allows for a more comprehensive interpretation of the relationships between home ownership and delinquency, contributing valuable insights to inform further investigations or policy considerations in relevant domains.
 
 <center><img src="images/HOS 2.png"/></center>
----
-<center>© 2023 Thanh Phan. Powered by Jekyll and the Minimal Theme.</center>
