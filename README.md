@@ -1,1 +1,1 @@
-# linhlhpham.github.io
+Checkout my LinkedIn at: https://www.linkedin.com/in/linhlhpham/
