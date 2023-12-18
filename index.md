@@ -5,8 +5,8 @@
 ### Unveiling the Secrets of Spotify Songs’ Popularity
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Spotify-Song-Popularity/blob/main/DSO-545_Final-Project-Code.ipynb)
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/DSO-545-Final-Report.pdf)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/DSO-545-Spotify.pptx.pdf)
+[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/Spotify-Report.pdf.pdf)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/Spotify-Presentation.pdf)
 
 The music industry is a lucrative sector within the entertainment industry, generating billions of dollars annually. **With 114,000 Spotify tracks over a range of 125 different genres**, there is immense revenue potential to utilize business analytics to help music producers adapt to this evolving landscape, understand consumer preferences through track popularity, guide in the song-making process, enhance the overall listening experience for consumers, and ultimately increase customer loyalty and subscription.
 
@@ -25,7 +25,7 @@ The music industry is a lucrative sector within the entertainment industry, gene
 ### Homeownership and Delinquency: Decoding the Impact on Credit Card Holders
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Homeownership-delinquency/blob/main/DSO-510_Group-C1_Final-Code.ipynb)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/DSO-510-Presentation.pdf)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/HOS-Presentation.pdf)
 
 - Credit cards are the most prevalent form of household debt and continue to become even more widespread. As Americans grapple with high inflation and record debt, many have fallen behind on credit card payments. In fact, 5.08% of credit card balances fell into serious delinquency in the second quarter of 2023, according to data from the Federal Reserve Bank of New York.
 - The problem our team aimed to answer was: “Does a credit card holder’s home ownership status impact their delinquent behavior?” Our goal is to help banks understand what factors influence an individual’s delinquency rate. Through this, banks can identify which consumers are most likely to default and refine strategies to target these consumers. 
