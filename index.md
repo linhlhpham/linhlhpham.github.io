@@ -5,7 +5,8 @@
 ### Unveiling the Secrets of Spotify Songs’ Popularity
 
 [![View in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1uN7PXAJE0XjzL1pb_1Mm8HgsV-FKlIlW)
-[![View in Google Colab](https://img.shields.io/badge/Presentation-pink)](pdf/DSO-545-Final-Report.pdf)
+[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/DSO-545-Final-Report.pdf)
+[![View in Google Colab](https://img.shields.io/badge/Presentation-pink)](pdf/DSO-545-Spotify.pptx.pdf)
 
 
 The music industry is a lucrative sector within the entertainment industry, generating billions of dollars annually. **With 114,000 Spotify tracks over a range of 125 different genres**, there is immense revenue potential to utilize business analytics to help music producers adapt to this evolving landscape, understand consumer preferences through track popularity, guide in the song-making process, enhance the overall listening experience for consumers, and ultimately increase customer loyalty and subscription.
