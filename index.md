@@ -4,7 +4,7 @@
 
 ### Unveiling the Secrets of Spotify Songs’ Popularity
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Spotify-Song-Popularity/blob/main/DSO_545_Final_Project_Code.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Spotify-Song-Popularity/blob/main/DSO-545_Final-Project-Code.ipynb)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/DSO-545-Final-Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/DSO-545-Spotify.pptx.pdf)
 
