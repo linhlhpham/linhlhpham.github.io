@@ -37,3 +37,31 @@ The music industry is a lucrative sector within the entertainment industry, gene
 - **Cluster 4** represents the popularity of Hip-hop. It is pretty expected that Hip-hop songs are likely to be more popular when they have a strong rhythm and cheerful mood, creating a lively feel when combined with high danceability. However, it’s interesting to note that songs in this genre should contain fewer explicit lyrics and fall within a moderate tempo range.
 
 <center><img src="images/spotify clustering.png"/></center>
+
+---
+
+## Natural Language Processing
+
+### Yelp Restaurant Reviews: Sentiment Analysis and Topic Modeling
+
+The project analyzed Yelp reviews of California restaurants using advanced text analytics techniques, including text preprocessing, NLTK's Sentiment Intensity Analyzer, Latent Dirichlet Allocation (LDA) for topic modeling, and linear regression to predict ratings based on sentiment scores. It processed 168,000 reviews from 588 restaurants by tokenizing, normalizing, and stemming text, removing irrelevant characters and stop words.
+
+The LDA model achieved maximum coherence at 18 topics, which were grouped and hand-labeled into four meaningful categories, with 'service' emerging as the predominant topic (42%) and, along with 'food', showing the highest correlation with star ratings.
+
+<center><img src="images/NLP 1.png"/></center>
+<center><img src="images/NLP 2.png"/></center>
+
+Recommendations: Implementing a "Yelp Rating Breakdown" and “Summary of Review” feature to provide detailed insights into specific aspects of ratings, helping restaurants improve their services, strategic marketing, and competitive edges and customers make informed decisions, personalized choices, and trend identification in restaurant performance over time. Overall, this feature benefits:
+- **Improved User Experience:** Both businesses and customers benefit from more organized, accessible information.
+- **Increased Platform Value:** These features could make Yelp more valuable and user-friendly, potentially increasing user engagement and retention.
+- **Data Transparency:** Provides a clearer, more nuanced picture of customer sentiment beyond just an overall star rating.
+
+---
+
+## Generative AI/LLM
+
+### Interactive AI Chatbot Development
+
+**TL;DR:** This project showcases the development of an AI-driven chatbot and workflow automation system using various technologies and frameworks. It leverages OpenAI's language models, Streamlit for the user interface, LangChain for creating AI agents and tools, and integrates with AWS services like DynamoDB and SNS. The project involves creating a chatbot, implementing vector-based document retrieval, and developing an end-to-end workflow that processes information about dinosaur transportation, checks weather conditions, and sends status updates via email and text messages. The system demonstrates the power of combining LLMs with custom tools and databases to create a sophisticated, context-aware application capable of complex decision-making and communication tasks.
+
+<center><img src="llm.png"/></center>
