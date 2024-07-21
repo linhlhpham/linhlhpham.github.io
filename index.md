@@ -7,8 +7,8 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Option-Price-ML?tab=readme-ov-file)
 [![Regression Models](https://img.shields.io/badge/Colab-Regression_Models-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/13FJsXto6rr6m-O_lyBX1W79VxXQdHTIk?usp=sharing)
 [![Classification Models](https://img.shields.io/badge/Colab-Classification_Models-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ZL1KpN-ayBskdhZy8T25PqQ5Xq59ehsv?usp=sharing)
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/Spotify-Report.pdf)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/Spotify-Presentation.pdf)
+[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/linhlhpham/Option-Price-ML/blob/main/Group_6_report.pdf)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/linhlhpham/Option-Price-ML/blob/main/presentation.pdf)
 
 This project focuses on optimizing the valuation and pricing of stock options using advanced statistical and machine learning methods. The goal is to develop models that can accurately predict option values and classify them according to the Black-Scholes model. We utilized a dataset of 5,000 data points, employing various features such as stock price (S), strike price (K), time to expiration (τ), and risk-free rate (r). Through feature engineering, additional predictors were created, including moneyness (S/K), intrinsic value, and others, to enhance model performance.
 
