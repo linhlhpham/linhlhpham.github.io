@@ -4,9 +4,9 @@
 
 ### Predictive Modeling for Stock Options Pricing 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Spotify-Song-Popularity/blob/main/DSO-545_Final-Project-Code.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Option-Price-ML?tab=readme-ov-file)
 [![Regression Models](https://img.shields.io/badge/Colab-Regression_Models-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/13FJsXto6rr6m-O_lyBX1W79VxXQdHTIk?usp=sharing)
-![Language](https://img.shields.io/badge/Python-Language-navy?logo=Python)
+[![Classification Models](https://img.shields.io/badge/Colab-Classification_Models-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ZL1KpN-ayBskdhZy8T25PqQ5Xq59ehsv?usp=sharing)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/Spotify-Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/Spotify-Presentation.pdf)
 
