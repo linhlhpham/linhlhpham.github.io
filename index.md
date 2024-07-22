@@ -13,8 +13,8 @@
 This project focuses on optimizing the valuation and pricing of stock options using advanced statistical and machine learning methods. The goal is to develop models that can accurately predict option values and classify them according to the Black-Scholes model. We utilized a dataset of 5,000 data points, employing various features such as stock price (S), strike price (K), time to expiration (τ), and risk-free rate (r). Through feature engineering, additional predictors were created, including moneyness (S/K), intrinsic value, and others, to enhance model performance.
 
 The project approached the problem from two angles:
-<center><img src="images/predictive modelling.png"/></center>
-<center><img src="images/predictive modelling 2.png"/></center>
+<center><img src="images/PM1.png"/></center>
+<center><img src="images/PM2.png"/></center>
 
 For both approaches, we implemented and compared multiple models, including Lasso, Ridge, Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost. Using the best parameters from GridSearch, we tuned hyperparameters for optimal performance. Ultimately, XGBoost stood out as the best model, achieving the highest R-squared value for regression and the lowest classification error.
 By integrating machine learning, our approach provides a more flexible and precise method for predicting option values, offering significant improvements over traditional valuation techniques. This work provides valuable insights for financial institutions and traders, offering a more nuanced and potentially more accurate approach to option pricing and risk assessment in the dynamic world of financial markets.
@@ -50,8 +50,7 @@ The project analyzed Yelp reviews of California restaurants using advanced text 
 
 The LDA model achieved maximum coherence at 18 topics, which were grouped and hand-labeled into four meaningful categories, with 'service' emerging as the predominant topic (42%) and, along with 'food', showing the highest correlation with star ratings.
 
-<center><img src="images/NLP 1.png"/></center>
-<center><img src="images/NLP 2.png"/></center>
+<center><img src="images/NLP full.png"/></center>
 
 Recommendations: Implementing a "Yelp Rating Breakdown" and “Summary of Review” feature to provide detailed insights into specific aspects of ratings, helping restaurants improve their services, strategic marketing, and competitive edges and customers make informed decisions, personalized choices, and trend identification in restaurant performance over time. Overall, this feature benefits:
 - **Improved User Experience:** Both businesses and customers benefit from more organized, accessible information.
@@ -66,4 +65,4 @@ Recommendations: Implementing a "Yelp Rating Breakdown" and “Summary of Review
 
 **TL;DR:** This project showcases the development of an AI-driven chatbot and workflow automation system using various technologies and frameworks. It leverages OpenAI's language models, Streamlit for the user interface, LangChain for creating AI agents and tools, and integrates with AWS services like DynamoDB and SNS. The project involves creating a chatbot, implementing vector-based document retrieval, and developing an end-to-end workflow that processes information about dinosaur transportation, checks weather conditions, and sends status updates via email and text messages. The system demonstrates the power of combining LLMs with custom tools and databases to create a sophisticated, context-aware application capable of complex decision-making and communication tasks.
 
-<center><img src="images/llm.png"/></center>
+<center><img src="images/AI.png"/></center>
