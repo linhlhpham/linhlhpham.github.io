@@ -74,4 +74,4 @@ This project develops an advanced AI-driven application that integrates multiple
 <center><img src="images/AI.png"/></center>
 
 **End-to-End AI-Driven Dinosaur Transportation Workflow:**
-<center><img src="images/AIWorkflow.png"/></center>
+<center><img src="images/AIWorkflow.jpeg"/></center>
