@@ -66,8 +66,11 @@ The LDA model achieved maximum coherence at 18 topics, which were grouped and ha
 
 ### Interactive AI Chatbot Development
 
-**TL;DR:** This project showcases the development of an AI-driven chatbot and workflow automation system using various technologies and frameworks. It leverages OpenAI's language models, Streamlit for the user interface, LangChain for creating AI agents and tools, and integrates with AWS services like DynamoDB and SNS. The project involves creating a chatbot, implementing vector-based document retrieval, and developing an end-to-end workflow that processes information about dinosaur transportation, checks weather conditions, and sends status updates via email and text messages. The system demonstrates the power of combining LLMs with custom tools and databases to create a sophisticated, context-aware application capable of complex decision-making and communication tasks.
+This project develops an advanced AI-driven application that integrates multiple technologies to create a sophisticated chatbot and workflow automation system. It leverages OpenAI's language models, Streamlit for the UI, LangChain for AI agents and tools, and AWS services (DynamoDB, SNS) to handle a complex scenario involving dinosaur transportation logistics. The system implements vector-based document retrieval, interacts with various databases and APIs (including OpenWeatherMap), and orchestrates an end-to-end workflow. This workflow retrieves transportation data, checks weather conditions, assesses dinosaur safety, generates recommendations, and sends automated updates via email and text. The project demonstrates the practical application of Large Language Models in a multi-step, real-world scenario, showcasing their ability to make context-aware decisions, process data from multiple sources, and automate complex communication tasks.
 
 <div style="width:100%;height:0;padding-bottom:69%;position:relative;"><iframe src="https://giphy.com/embed/ej4jQz8VlsftpGgOXh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ej4jQz8VlsftpGgOXh">via GIPHY</a></p>
 
+**Vector-Based Document Retrieval and ReAct Agent Implementation:**
 <center><img src="images/AI.png"/></center>
+
+**End-to-End AI-Driven Dinosaur Transportation Workflow:**
