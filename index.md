@@ -65,4 +65,6 @@ Recommendations: Implementing a "Yelp Rating Breakdown" and “Summary of Review
 
 **TL;DR:** This project showcases the development of an AI-driven chatbot and workflow automation system using various technologies and frameworks. It leverages OpenAI's language models, Streamlit for the user interface, LangChain for creating AI agents and tools, and integrates with AWS services like DynamoDB and SNS. The project involves creating a chatbot, implementing vector-based document retrieval, and developing an end-to-end workflow that processes information about dinosaur transportation, checks weather conditions, and sends status updates via email and text messages. The system demonstrates the power of combining LLMs with custom tools and databases to create a sophisticated, context-aware application capable of complex decision-making and communication tasks.
 
+<iframe src="https://giphy.com/embed/ej4jQz8VlsftpGgOXh" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ej4jQz8VlsftpGgOXh">via GIPHY</a></p>
+
 <center><img src="images/AI.png"/></center>
