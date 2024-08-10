@@ -10,13 +10,13 @@
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/linhlhpham/Option-Price-ML/blob/main/Group_6_report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/linhlhpham/Option-Price-ML/blob/main/presentation.pdf)
 
-This project focuses on optimizing the valuation and pricing of stock options using advanced statistical and machine learning methods. The goal is to develop models that can accurately predict option values and classify them according to the Black-Scholes model. We utilized a dataset of 5,000 data points, employing various features such as stock price (S), strike price (K), time to expiration (τ), and risk-free rate (r). Through feature engineering, additional predictors were created, including moneyness (S/K), intrinsic value, and others, to enhance model performance.
+This project focuses on optimizing the valuation and pricing of stock options using advanced statistical and machine learning methods. The goal is to **develop models that can accurately predict option values and classify them according to the Black-Scholes model**. We utilized a dataset of 5,000 data points, employing various features such as stock price (S), strike price (K), time to expiration (τ), and risk-free rate (r). Through feature engineering, additional predictors were created, including moneyness (S/K), intrinsic value, and others, to enhance model performance.
 
 The project approached the problem from two angles:
 <center><img src="images/PM1.png"/></center>
 <center><img src="images/PM2.png"/></center>
 
-For both approaches, we implemented and compared multiple models, including Lasso, Ridge, Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost. Using the best parameters from GridSearch, we tuned hyperparameters for optimal performance. Ultimately, XGBoost stood out as the best model, achieving the highest R-squared value for regression and the lowest classification error.
+For both approaches, we implemented and compared multiple models, including Lasso, Ridge, Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost. Using the best parameters from GridSearch, we tuned hyperparameters for optimal performance. Ultimately, **XGBoost** stood out as the best model, achieving the **highest R-squared value for regression** and **the lowest classification error**.
 By integrating machine learning, our approach provides a more flexible and precise method for predicting option values, offering significant improvements over traditional valuation techniques. This work provides valuable insights for financial institutions and traders, offering a more nuanced and potentially more accurate approach to option pricing and risk assessment in the dynamic world of financial markets.
 
 ---
@@ -49,13 +49,13 @@ The music industry is a lucrative sector within the entertainment industry, gene
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Yelp-Topic-Sentiment/blob/main/code/Part_1_Data_Preprocessing.ipynb)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/NLP_Yelp_Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/NLP_Yelp_Review_Presentation.pdf)
-The project analyzed Yelp reviews of California restaurants using advanced text analytics techniques, including text preprocessing, NLTK's Sentiment Intensity Analyzer, Latent Dirichlet Allocation (LDA) for topic modeling, and linear regression to predict ratings based on sentiment scores. It processed 168,000 reviews from 588 restaurants by tokenizing, normalizing, and stemming text, removing irrelevant characters and stop words.
+The project analyzed Yelp reviews of California restaurants using advanced text analytics techniques, including text preprocessing, NLTK's Sentiment Intensity Analyzer, Latent Dirichlet Allocation (LDA) for topic modeling, and linear regression to predict ratings based on sentiment scores. It processed **168,000 reviews** from 588 restaurants by tokenizing, normalizing, and stemming text, removing irrelevant characters and stop words.
 
 The LDA model achieved maximum coherence at 18 topics, which were grouped and hand-labeled into four meaningful categories, with 'service' emerging as the predominant topic (42%) and, along with 'food', showing the highest correlation with star ratings.
 
 <center><img src="images/NLP full.png"/></center>
 
-Recommendations: Implementing a "Yelp Rating Breakdown" and “Summary of Review” feature to provide detailed insights into specific aspects of ratings, helping restaurants improve their services, strategic marketing, and competitive edges and customers make informed decisions, personalized choices, and trend identification in restaurant performance over time. Overall, this feature benefits:
+**Recommendations**: Implementing a "Yelp Rating Breakdown" and “Summary of Review” feature to provide detailed insights into specific aspects of ratings, helping **restaurants** improve their services, strategic marketing, and competitive edges and **customers** make informed decisions, personalized choices, and trend identification in restaurant performance over time. Overall, this feature benefits:
 - **Improved User Experience:** Both businesses and customers benefit from more organized, accessible information.
 - **Increased Platform Value:** These features could make Yelp more valuable and user-friendly, potentially increasing user engagement and retention.
 - **Data Transparency:** Provides a clearer, more nuanced picture of customer sentiment beyond just an overall star rating.
