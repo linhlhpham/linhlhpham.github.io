@@ -47,7 +47,7 @@ The music industry is a lucrative sector within the entertainment industry, gene
 ### Yelp Restaurant Reviews: Sentiment Analysis and Topic Modeling
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Yelp-Topic-Sentiment/blob/main/code/Part_1_Data_Preprocessing.ipynb)
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/Yelp_NLP_Report.pdf)
+[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/NLP_Yelp_Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/NLP_Yelp_Review_Presentation.pdf)
 The project analyzed Yelp reviews of California restaurants using advanced text analytics techniques, including text preprocessing, NLTK's Sentiment Intensity Analyzer, Latent Dirichlet Allocation (LDA) for topic modeling, and linear regression to predict ratings based on sentiment scores. It processed 168,000 reviews from 588 restaurants by tokenizing, normalizing, and stemming text, removing irrelevant characters and stop words.
 
