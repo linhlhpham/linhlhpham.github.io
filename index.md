@@ -49,6 +49,7 @@ The music industry is a lucrative sector within the entertainment industry, gene
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/Yelp-Topic-Sentiment)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/NLP_Yelp_Report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/NLP_Yelp_Review_Presentation.pdf)
+
 The project analyzed Yelp reviews of California restaurants using advanced text analytics techniques, including text preprocessing, NLTK's Sentiment Intensity Analyzer, Latent Dirichlet Allocation (LDA) for topic modeling, and linear regression to predict ratings based on sentiment scores. It processed **168,000 reviews** from 588 restaurants by tokenizing, normalizing, and stemming text, removing irrelevant characters and stop words.
 
 The LDA model achieved maximum coherence at 18 topics, which were grouped and hand-labeled into four meaningful categories, with 'service' emerging as the predominant topic (42%) and, along with 'food', showing the highest correlation with star ratings.
@@ -68,7 +69,7 @@ The LDA model achieved maximum coherence at 18 topics, which were grouped and ha
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/linhlhpham/LLM-DinoTransport-SafetyBot)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](pdf/dino_report.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](pdf/dino_presentation.pdf)
-![Recommended Environment](https://img.shields.io/badge/Recommended_System-blue?logo=amazonwebservices&logoColor=002129)
+![Recommended Environment](https://img.shields.io/badge/AWS-Recommended_Environment-blue?logo=AWS)
 
 This project develops an advanced AI-driven application that integrates multiple technologies to create a sophisticated chatbot and workflow automation system. It leverages OpenAI's language models, Streamlit for the UI, LangChain for AI agents and tools, and AWS services (DynamoDB, SNS) to handle a complex scenario involving dinosaur transportation logistics. The system implements vector-based document retrieval, interacts with various databases and APIs (including OpenWeatherMap), and orchestrates an end-to-end workflow. This workflow retrieves transportation data, checks weather conditions, assesses dinosaur safety, generates recommendations, and sends automated updates via email and text. The project demonstrates the practical application of Large Language Models in a multi-step, real-world scenario, showcasing their ability to make context-aware decisions, process data from multiple sources, and automate complex communication tasks.
 
